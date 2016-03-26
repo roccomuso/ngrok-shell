@@ -1,0 +1,25 @@
+{
+  "name": "ngrok-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roccomuso/ngrok-shell.git"
+  },
+  "author": "Rocco Musolino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roccomuso/ngrok-shell/issues"
+  },
+  "homepage": "https://github.com/roccomuso/ngrok-shell#readme",
+  "dependencies": {
+    "ngrok": "^2.1.6",
+    "node-notifier": "^4.5.0",
+    "socket.io": "^1.4.5",
+    "yargs": "^4.3.2"
+  }
+}
